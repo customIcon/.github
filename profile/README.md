@@ -5,3 +5,4 @@ Home of the customIcons, driveIconPatcher, and more!
 ## Projects
 ### [customIcons](https://github.com/customWin/customIcons)
 ### [driveIconPatcher](https://github.com/customWin/driveIconPatcher)
+### [customFonts](https://github.com/customWin/customFonts)
